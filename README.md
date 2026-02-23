@@ -29,13 +29,25 @@ To ensure fairness and track your progress, this hackathon features a strict two
 *Please overwrite the information below with your actual project details before the final evaluation.*
 
 ### Team Name: 
-[Enter your team name]
+Byte-Busters
 
 ### Project Name:
-[Enter your project name]
+Medfair
 
 ### Project Description:
-[Write a brief 1-2 paragraph description of what your project does, the problem it solves, and the technologies used.]
+THE PROBLEM
+Medicines with the same composition often have huge price differences due to
+branding. Patients unknowingly buy expensive medicines and sometimes skip
+doses due to high costs.
+THE SOLUTION – MEDFAIR
+MedFair is a software platform that compares medicine prices based on salt
+composition and highlights affordable generic alternatives without giving medical
+advice.
 
 ### Setup & Installation Instructions:
-[Provide clear, step-by-step instructions on how the judges can run your project locally. Include any commands needed to install dependencies and start the application.]
+https://github.com/Hackverse-2-0/Byte-Busters.git
+Prerequisties:
+Node.js
+Python 3.10
+PostgreSQL
+Git
